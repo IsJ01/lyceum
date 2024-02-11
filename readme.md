@@ -1,1 +1,1 @@
-It is just an empty repo.
+.\manage.py startserver
