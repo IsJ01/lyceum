@@ -1,0 +1,10 @@
+stages:
+  - linting
+
+flake8:
+  stage: linting
+  image: registry.gitlab.com/pipeline-components/flake8:latest
+  script:
+    - pip3 install pep8-naming flake8-import-order flake-quotes
+    - flake8 --exclude venv lyceum
+
