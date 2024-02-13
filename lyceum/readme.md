@@ -1,1 +1,4 @@
-.\manage.py startserver
+## Запуск
+```bash
+python3 manage.py runserver
+```

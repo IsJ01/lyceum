@@ -1,6 +1,6 @@
 #Решение домашних заданий на интенсиве Яндекса на Django
-![main workflow](https://gitlab.crja72.ru/django/2024/spring
-/course/students/153317-islamishtalbagamaev27-gmail.com-course-1112)
+![main workflow](https://gitlab.crja72.ru/django/2024/spring/course
+/students/153317-islamishtalbagamaev27-gmail.com-course-1112)
 
 
 ## Активация виртуального окружения
@@ -39,5 +39,5 @@ cp config.env .env
 
 ## Запуск
 ```bash
-python3 manager.py runserver
+python3 manage.py runserver
 ```
