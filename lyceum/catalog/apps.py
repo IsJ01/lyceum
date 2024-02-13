@@ -1,4 +1,5 @@
 """Doc."""
+
 from django.apps import AppConfig
 
 
