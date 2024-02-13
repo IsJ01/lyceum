@@ -22,6 +22,11 @@ pip3 install -r requirements/dev.txt
 ```
 
 
+```bash
+pip3 install --upgrade pip
+```
+
+
 
 ### Для запуска тестов зависимости перечислены `requirements/text.txt`
 ```bash
