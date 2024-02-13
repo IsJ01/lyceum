@@ -16,13 +16,13 @@ pip3 install -r requirements/prod.txt
 ```
 
 
-### Для разработки необходимо дополнительно установить зависимости из 'requirements/dev.txt'
+### Для разработки необходимо дополнительно установить зависимости из `requirements/dev.txt`
 bash
 pip3 install -r requirements/dev.txt
 
 
 
-### Для запуска тестов зависимости перечислены 'requirements/text.txt'
+### Для запуска тестов зависимости перечислены `requirements/text.txt`
 ```bash
 pip3 install -r requirements/test.txt
 ```
