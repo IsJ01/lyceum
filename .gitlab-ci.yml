@@ -12,5 +12,5 @@ black:
   stage: linting
   image: registry.gitlab.com/pipeline-components/black:latest
   script:
-  - black --line-lenght 79 --exclude venv --check --skip-string-normalization
+  - black --line-length 79 --exclude venv --check --skip-string-normalization
 
